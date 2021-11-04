@@ -10,6 +10,6 @@ const server = http.createServer((req,res)=>{
 });
 //
 //
-server.listen(3000,"192.168.56.1",()=>{
+server.listen(3000,"192.168.89.40",()=>{
     console.log("Servidor escuchando en http://192.168.89.40:3000");
 })
