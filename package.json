@@ -1,0 +1,51 @@
+{
+  "name": "pwpc-1",
+  "version": "0.0.1",
+  "description": "Proyecto de PWPC1",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Iniciando programa ...\" && node index",
+    "dev": "set enviroment=DEVELOPMENT && node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+{
+  "name": "pwpc-1",
+  "version": "0.0.1",
+  "description": "Proyecto de pwpc1",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Iniciando programa ...\" && node index",
+    "dev": "set enviroment=DEVELOPMENT && node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliettCarrillo/borrar-pwpci-2021b.git"
+  },
+  "keywords": [
+    "FullStack",
+    "node"
+  ],
+  "author": "Juliett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuliettCarrillo/borrar-pwpci-2021b.git/issues"
+  },
+  "homepage": "https://github.com/JuliettCarrillo/borrar-pwpci-2021b.gitb#readme",
+  "type": "module"
+}"
+  },
+  "keywords": [
+    "FullStack",
+    "node"
+  ],
+  "author": "Juliett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuliettCarrillo/borrar-pwpci-2021b.git/issues"
+  },
+  "homepage": "https://github.com/JuliettCarrillo/borrar-pwpci-2021b.git#readme",
+  "type": "module"
+}
